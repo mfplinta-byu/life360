@@ -18,7 +18,7 @@ setuptools.setup(
     url="https://github.com/pnbruckner/life360",
     packages=setuptools.find_packages(),
     install_requires=[
-        "aiohttp",
+        "curl_cffi",
     ],
     classifiers=[
         "Programming Language :: Python :: 3",

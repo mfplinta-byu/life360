@@ -107,3 +107,4 @@ bin/
 share/
 
 .vscode/
+tests.py
